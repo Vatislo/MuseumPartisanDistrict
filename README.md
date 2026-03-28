@@ -1,22 +1,22 @@
-# Музей партизанского района
+# Museum of the Partisan District of Minsk
 
-## Описание
+## Description
 
-Этот подпроект был разработан [мной](https://github.com/Vatislo) и моим [напарником](https://github.com/Alexey177580).
+A small educational front‑end project: a static HTML site about the Museum of the Partisan District of Minsk.
+Includes responsive layout and a few simple JavaScript features for interactivity.
 
-Большую часть работы выполнил я, а мой напарник следовал моим инструкциям.
+## Link
 
-Я хз что тут писать поэтому вталю пару `lorem30`:
+https://vatislo.github.io/MuseumPartisanDistrict/
 
-- Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem porro vel, amet quis ratione magnam, laboriosam cum distinctio repellat, expedita architecto placeat molestias neque eaque. Nostrum velit veniam dolores dicta!
-- Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem porro vel, amet quis ratione magnam, laboriosam cum distinctio repellat, expedita architecto placeat molestias neque eaque. Nostrum velit veniam dolores dicta!
-
-
-## Технологии
-
-Проект создан с использованием следующих технологий:
+## Technologies
 
 - HTML
 - CSS
-- SCSS
+- SCSS (simple CSS would have been fine)
 - JS
+
+## Contact
+
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=tuta&logoColor=FF0000)](mailto:Vatislo@tutanota.com)
+[![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github)](https://github.com/lovesinon1994)
