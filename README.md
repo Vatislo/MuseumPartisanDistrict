@@ -19,4 +19,4 @@ https://vatislo.github.io/MuseumPartisanDistrict/
 ## Contact
 
 [![Vatislo(teamlead)](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=tuta&logoColor=FF0000)](mailto:Vatislo@tutanota.com)
-[![Lovesinon1994](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github)](https://github.com/lovesinon1994)
+[![Lovesinon1994(html/css developer)](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github)](https://github.com/lovesinon1994)
